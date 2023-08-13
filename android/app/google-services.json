@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "954769418848",
+    "firebase_url": "https://vanet-prototype1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "vanet-prototype1",
+    "storage_bucket": "vanet-prototype1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954769418848:android:d394179fbd46f237f77105",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954769418848-1qfadub8ui4ng73622a1502te4hqobph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArn4ivSsAnbvi75oOlkd8byNgEGTbAMQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954769418848-1qfadub8ui4ng73622a1502te4hqobph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
